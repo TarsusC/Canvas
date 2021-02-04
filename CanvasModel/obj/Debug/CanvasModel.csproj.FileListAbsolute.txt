@@ -1,0 +1,5 @@
+C:\Users\Admin\Source\Repos\CanvasModel\obj\Debug\CanvasModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\CanvasModel\bin\Debug\CanvasModel.dll
+C:\Users\Admin\Source\Repos\CanvasModel\bin\Debug\CanvasModel.pdb
+C:\Users\Admin\Source\Repos\CanvasModel\obj\Debug\CanvasModel.dll
+C:\Users\Admin\Source\Repos\CanvasModel\obj\Debug\CanvasModel.pdb
